@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on ReWindows<br>🌱 I’m currently learning .NET 10<br>⚡ Fun fact C# was the first language i learnt<br><br>
+🔭 I’m currently working on ReWindows and [CitrineLauncher](https://github.com/Synalix/CitrineLauncher)<br>🌱 I’m currently learning .NET 10<br>⚡ Fun fact: C# was the first language i learnt<br><br>
 
 
 ## 🌐 Socials:
