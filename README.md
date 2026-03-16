@@ -29,7 +29,7 @@
 
 ## 🚀 About Me
 
-🔭 **Currently working on:** [ReWindows](https://github.com/Synalix) and [CitrineLauncher](https://github.com/Synalix/CitrineLauncher)
+🔭 **Currently working on:** [ReWindows](https://github.com/Synalix/ReWindows) and [CitrineLauncher](https://github.com/Synalix/CitrineLauncher)
 
 🌱 **Learning:** Deep diving into **.NET 10** features, **system design** and **performance optimization**
 
