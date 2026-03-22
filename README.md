@@ -95,4 +95,10 @@
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Synalix&theme=calm&hide_border=false&include_all_commits=true&count_private=&layout=compact" alt="Top Languages" /> </p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Synalix&icon=0&color=0)](https://visitcount.itsvg.in)
+<div align="center">
+
+![](https://api.visitorbadge.io/api/VisitorHit?user=Synalix&repo=Synalix&label=Visitors%20Count&countColor=%230A66C2)
+
+</div>
+
+</div>
