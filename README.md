@@ -36,7 +36,7 @@ system utilities, and Android mods on the side.
 
 <div align="center">
 
-[![Top Langs](https://github-readme-stats-dun-kappa-17.vercel.app/api/top-langs/?username=synalix&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/synalix)
+[![Top Langs](https://github-readme-stats-dun-kappa-17.vercel.app/api/top-langs/?username=synalix&exclude_repo=github-readme-stats-dun-kappa-17&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=ffffff)](https://github.com/synalix)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://synalix.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thodoris-kouvelas)
