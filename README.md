@@ -60,28 +60,28 @@ system utilities, and Android mods on the side.
 ## 🧠 Tech Stack
 
 ### 🖥️ Desktop & Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+<img src="https://mauriciospark.github.io/coreIcons/fotos/csharp.png" height="45" alt="c# logo"/> |
+<img src="https://mauriciospark.github.io/coreIcons/fotos/aspnet.png" height="45" alt="net logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/java.png" height="45" alt="java logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/kotlin.png" height="45" alt="kotlin logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/nodejs.png" height="45" alt="nodejs logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/expressjs.png" height="45" alt="expressjs logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/lua.png" height="45" alt="lua logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/bash.png" height="45" alt="bash logo"/>
 
 ### 🌐 Web & Frontend
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+<img src="https://mauriciospark.github.io/coreIcons/fotos/html.png" height="45" alt="html logo"/>|
+<img src="https://mauriciospark.github.io/coreIcons/fotos/css.png" height="45" alt="css logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/javascript.png" height="45" alt="Javascript logo"/>
 
 ### 🗄️ Database, Cloud & DevOps
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://mauriciospark.github.io/coreIcons/fotos/mysql.png" height="45" alt="mysql logo"/>|
+<img src="https://mauriciospark.github.io/coreIcons/fotos/sqlite.png" height="45" alt="sqlite logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/azure.png" height="45" alt="azure logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/cloudflare.png" height="45" alt="cloudflare logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/git.png" height="45" alt="git logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/docker.png" height="45" alt="Docker logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/apache.png" height="45" alt="Apache logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/gradle.png" height="45" alt="Gradle logo"/>
+<img src="https://mauriciospark.github.io/coreIcons/fotos/postman.png" height="45" alt="postma logo"/>
 
